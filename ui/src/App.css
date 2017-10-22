@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body {
+  background: #222;
+}
+
+h1, h2, h3, h4, h5, p, span {
+  color: #fff;
+}
+
+.tooltip-section {
+  margin-top: 10px;
+}
+
+.form-wrapper {
+  margin: 60px 0 10px 0;
+}
+
+td {
+  text-align: left;
+}
+
+td a {
+  color: #fff;
+}
+
+td a:hover {
+  color: lightblue;
+}
+
+.card-container .table-responsive {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.card-text {
+  color: lightgreen;
+}
+
+.card-title {
+  margin: 20px;
+}
+
+.card.card-inverse {
+  margin: 10px 0 10px 0;
+  background-color: #333; border-color: #333;
+}
+
+.btn-download {
+  margin: 15px;
+  color: #fff !important;
+  font-weight: 900;
+}
+
+.usage-metrics {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.app-description p {
+  margin-top: 20px;
+}
+
+.host-detail {
+  margin-top: 15px;
+}
+
+.detail {
+  color: lightgreen;
+}

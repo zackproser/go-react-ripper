@@ -1,5 +1,7 @@
 # Go React Ripper
 
+![Pageripper overview](docs/pageripper.png)
+
 A simple, fast web app for extracting links from a user-supplied URL and optionally downloading them in CSV format.
 
 # Stack
